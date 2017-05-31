@@ -7,3 +7,5 @@ Optimize procedure in lambda loop
 Add RcppArmadillo in 'LinkingTo' Field on DESCRIPTION File
 
 Change Rcpp include to RcppArmadillo
+
+RcppExports Auto Update
