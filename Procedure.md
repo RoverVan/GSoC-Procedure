@@ -9,3 +9,7 @@ Add RcppArmadillo in 'LinkingTo' Field on DESCRIPTION File
 Change Rcpp include to RcppArmadillo
 
 RcppExports Auto Update
+
+#June 1, 2017
+	
+Change the Matrix Type (Rcpp::NumericMatrix to arma:mat) && Update the matrix method offer by Armadillo
