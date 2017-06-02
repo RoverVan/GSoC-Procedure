@@ -20,3 +20,5 @@ RcppExports Auto Update
 Add namespace arma
 
 Remove all 'arma::' (By adding namespace 'arma')
+
+Change temp var(w, z, eta)'s type from array to vector
