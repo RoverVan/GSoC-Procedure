@@ -18,3 +18,5 @@ RcppExports Auto Update
 
 #June 2, 2017
 Add namespace arma
+
+Remove all 'arma::' (By adding namespace 'arma')
