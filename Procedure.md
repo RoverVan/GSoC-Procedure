@@ -15,3 +15,6 @@ RcppExports Auto Update
 Change the Matrix Type (Rcpp::NumericMatrix to arma:mat) && Update the matrix method offer by Armadillo
 
 RcppExports Auto Update
+
+#June 2, 2017
+Add namespace arma
