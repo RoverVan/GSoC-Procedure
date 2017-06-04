@@ -22,3 +22,6 @@ Add namespace arma
 Remove all 'arma::' (By adding namespace 'arma')
 
 Change temp var(w, z, eta)'s type from array to vector
+
+#June 4, 2017
+Use matrix & vector computation instead of for loop
