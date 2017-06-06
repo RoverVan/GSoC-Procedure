@@ -25,3 +25,6 @@ Change temp var(w, z, eta)'s type from array to vector
 
 #June 4, 2017
 Use matrix & vector computation instead of for loop
+
+#June 6, 2017
+Add Makevars and link to openblas as BLAS_LIBS
