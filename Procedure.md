@@ -28,3 +28,6 @@ Use matrix & vector computation instead of for loop
 
 #June 6, 2017
 Add Makevars and link to openblas as BLAS_LIBS
+
+#June 7, 2017
+RcppExport Auto Update
