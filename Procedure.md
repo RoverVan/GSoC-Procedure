@@ -31,3 +31,5 @@ Add Makevars and link to openblas as BLAS_LIBS
 
 #June 7, 2017
 RcppExport Auto Update
+
+Add flag_beta_converged_vec to pass beta_k computation if converged
