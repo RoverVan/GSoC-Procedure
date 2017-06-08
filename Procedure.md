@@ -33,3 +33,6 @@ Add Makevars and link to openblas as BLAS_LIBS
 RcppExport Auto Update
 
 Add flag_beta_converged_vec to pass beta_k computation if converged
+
+#June 8, 2017
+Rewrite Compute Process: Only calculate the updated part in COEFF LOOP
