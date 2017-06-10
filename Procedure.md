@@ -38,3 +38,6 @@ Add flag_beta_converged_vec to pass beta_k computation if converged
 Rewrite Compute Process: Only calculate the updated part in COEFF LOOP
 
 Move 'copy beta' step to the end of lambda loop
+
+#June 10, 2017
+Add 'eta_mat' to save the result of each beta_k * X.col(k)
