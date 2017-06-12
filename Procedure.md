@@ -41,3 +41,6 @@ Move 'copy beta' step to the end of lambda loop
 
 #June 10, 2017
 Add 'eta_mat' to save the result of each beta_k * X.col(k)
+
+#June 12, 2017
+Weekly Meeting
