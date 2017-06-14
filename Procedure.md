@@ -44,3 +44,6 @@ Add 'eta_mat' to save the result of each beta_k * X.col(k)
 
 #June 12, 2017
 Weekly Meeting
+
+#June 14, 2017
+Use CXX_STD = CXX11 instead of -std=c++11 flag
