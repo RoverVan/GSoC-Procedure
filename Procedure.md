@@ -47,3 +47,6 @@ Weekly Meeting
 
 #June 14, 2017
 Use CXX_STD = CXX11 instead of -std=c++11 flag
+
+#June 15, 2017
+fixing travis ci
