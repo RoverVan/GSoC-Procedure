@@ -50,3 +50,6 @@ Use CXX_STD = CXX11 instead of -std=c++11 flag
 
 #June 15, 2017
 fixing travis ci
+
+#June 25, 2017
+fix openblas not found in travis ci
