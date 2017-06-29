@@ -56,3 +56,5 @@ fix openblas not found in travis ci
 
 #June 29, 2017
 add compute_grad_response_gaussian_none function declaration
+
+temporary add funtion var to fit the new funtion pointer
