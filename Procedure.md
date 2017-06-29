@@ -53,3 +53,6 @@ fixing travis ci
 
 #June 25, 2017
 fix openblas not found in travis ci
+
+#June 29, 2017
+add compute_grad_response_gaussian_none function declaration
