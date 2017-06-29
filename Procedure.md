@@ -60,3 +60,5 @@ add compute_grad_response_gaussian_none function declaration
 temporary add funtion var to fit the new funtion pointer
 
 optimize function for gaussian && add none censoring type optimization
+
+add function pointer to change the function by censoring type
