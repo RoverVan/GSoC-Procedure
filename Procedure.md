@@ -62,3 +62,6 @@ temporary add funtion var to fit the new funtion pointer
 optimize function for gaussian && add none censoring type optimization
 
 add function pointer to change the function by censoring type
+
+##July 1, 2017
+add all gaussian function type in iregnet_fit.cpp (not realize all yet)
