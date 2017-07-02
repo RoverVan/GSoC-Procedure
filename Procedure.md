@@ -68,3 +68,5 @@ add all gaussian function type in iregnet_fit.cpp (not realize all yet)
 
 #July 2, 2017
 Add right censoring gaussian function type
+
+Add right censoring gaussian function to target_compute_grad_response
