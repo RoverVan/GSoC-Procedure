@@ -65,3 +65,6 @@ add function pointer to change the function by censoring type
 
 ##July 1, 2017
 add all gaussian function type in iregnet_fit.cpp (not realize all yet)
+
+#July 2, 2017
+Add right censoring gaussian function type
