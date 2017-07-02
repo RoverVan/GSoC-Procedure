@@ -70,3 +70,5 @@ add all gaussian function type in iregnet_fit.cpp (not realize all yet)
 Add right censoring gaussian function type
 
 Add right censoring gaussian function to target_compute_grad_response
+
+Add right censoring gaussian function in distributions_gaussian.cpp
