@@ -75,3 +75,6 @@ Add right censoring gaussian function in distributions_gaussian.cpp
 
 #July 4, 2017
 Ignore other distributions wiht optimization function
+
+#July 5, 2017
+New Optimization Way
