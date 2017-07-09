@@ -81,3 +81,5 @@ New Optimization Way
 
 #July 9, 2017
 Add left censoring gaussian function type
+
+Add left censoring gaussian function to target_compute_grad_response
