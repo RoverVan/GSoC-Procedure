@@ -83,3 +83,5 @@ New Optimization Way
 Add left censoring gaussian function type
 
 Add left censoring gaussian function to target_compute_grad_response
+
+Add left censoring gaussian function in distributions_gaussian.cpp
