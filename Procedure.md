@@ -78,3 +78,6 @@ Ignore other distributions wiht optimization function
 
 #July 5, 2017
 New Optimization Way
+
+#July 9, 2017
+Add left censoring gaussian function type
