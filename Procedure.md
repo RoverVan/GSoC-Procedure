@@ -89,5 +89,8 @@ Add left censoring gaussian function in distributions_gaussian.cpp
 #July 10, 2017
 Add interval censoring gaussian function type
 
-#July 17
+#July 17, 2017
 Sort Matrix X by censoring type
+
+#July 18, 2017
+Rewrite distribution.cpp
