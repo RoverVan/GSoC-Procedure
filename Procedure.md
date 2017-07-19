@@ -99,3 +99,5 @@ Rewrite distribution.cpp
 Add new parameters in compute_grad_response function
 
 Add new parameters && change * to &
+
+Add sort_X_and_y() fucntion && init temp var outside distributions.cpp
