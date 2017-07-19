@@ -97,3 +97,5 @@ Rewrite distribution.cpp
 
 #July 19, 2017
 Add new parameters in compute_grad_response function
+
+Add new parameters && change * to &
