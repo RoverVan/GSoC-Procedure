@@ -103,3 +103,6 @@ Add new parameters && change * to &
 Add sort_X_and_y() fucntion && init temp var outside distributions.cpp
 
 Sort matrix X & y outside the loop (support right censoring type)
+
+#July 20, 2017
+Change parameter's & to const & in function compute_grad_response()
