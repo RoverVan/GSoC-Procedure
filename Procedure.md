@@ -106,3 +106,6 @@ Sort matrix X & y outside the loop (support right censoring type)
 
 #July 20, 2017
 Change parameter's & to const & in function compute_grad_response()
+
+#July 21, 2017
+Sort matrix X & y outside the loop (support left censoring type)
