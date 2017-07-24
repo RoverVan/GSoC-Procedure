@@ -115,3 +115,5 @@ Simplify some function in distribution.cpp
 
 #July 24, 2017
 Sort matrix X & y outside the loop (support interval censoring type)
+
+Add interval censoring gaussian function in distributions_gaussian.cpp
