@@ -118,5 +118,8 @@ Sort matrix X & y outside the loop (support interval censoring type)
 
 Add interval censoring gaussian function in distributions_gaussian.cpp
 
-#July 25, 2017
+#July 26, 2017
+Writing Benchmark
+
+#July 28, 2017
 Writing Benchmark
