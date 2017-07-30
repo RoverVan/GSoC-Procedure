@@ -126,3 +126,6 @@ Writing Benchmark
 
 #July 29, 2017
 Writing Benchmark
+
+#July 30, 2017
+Writing Benchmark
