@@ -132,3 +132,6 @@ Writing Benchmark
 
 #July 31, 2017
 Writing Benchmark
+
+#August 1, 2017
+Fix Benchmark
