@@ -135,3 +135,6 @@ Writing Benchmark
 
 #August 1, 2017
 Fix Benchmark
+
+#August 2, 2017
+Fix Benchmark
