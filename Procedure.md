@@ -138,3 +138,6 @@ Fix Benchmark
 
 #August 2, 2017
 Fix Benchmark
+
+#August 4, 2017
+Logistic distribution
