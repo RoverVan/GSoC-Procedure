@@ -141,3 +141,6 @@ Fix Benchmark
 
 #August 4, 2017
 Logistic distribution
+
+#August 6, 2017
+Remove temp var
