@@ -146,3 +146,5 @@ Logistic distribution
 Remove temp var
 
 Add distributions_logistic.cpp
+
+Add declare of distributions_logistic
