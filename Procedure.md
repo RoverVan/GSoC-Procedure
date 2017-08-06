@@ -144,3 +144,5 @@ Logistic distribution
 
 #August 6, 2017
 Remove temp var
+
+Add distributions_logistic.cpp
