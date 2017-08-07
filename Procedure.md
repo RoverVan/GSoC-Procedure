@@ -150,3 +150,6 @@ Add distributions_logistic.cpp
 Add declare of distributions_logistic
 
 Add select function for logistic distribution
+
+#August 7, 2017
+Add declare of distributions_logistic (Right censoring type)
