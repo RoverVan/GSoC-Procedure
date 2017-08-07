@@ -156,3 +156,4 @@ Add declare of distributions_logistic (Right censoring type)
 
 Support right censoring type of logistic distribution
 
+Add right censoring type function of logistic distribution
