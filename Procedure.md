@@ -166,3 +166,6 @@ Add left censoring type function of logistic distribution
 
 #August 24, 2017
 Writing Benchmark
+
+#August 26, 2017
+Fix bug on travis
