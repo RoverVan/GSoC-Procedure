@@ -169,3 +169,6 @@ Writing Benchmark
 
 #August 26, 2017
 Fix bug on travis
+
+#August 27, 2017
+Fix bug on travis (Update c++ compiler version)
